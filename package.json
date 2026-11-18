@@ -1,0 +1,14 @@
+{
+  "name": "fsxm-git-pull-watcher",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Monitora atualizações no repositório remoto e executa git pull automaticamente.",
+  "main": "src/pull-watcher.js",
+  "scripts": {
+    "start": "node src/pull-watcher.js",
+    "watch": "node src/pull-watcher.js"
+  },
+  "engines": {
+    "node": ">=12"
+  }
+}
