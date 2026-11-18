@@ -1,4 +1,4 @@
-# fsxm-deploy
+# fsxm-pull-watcher
 
 Ferramentas simples para automatizar tarefas de deploy e atualização de projetos.
 
